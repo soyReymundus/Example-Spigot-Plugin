@@ -1,0 +1,9 @@
+#important
+name: example
+version: 1.0
+main: com.exampledomi.example.example
+
+#authors
+author: ExampleTeam
+authors: [Reymundus]
+website: https://exampledomi.com/
