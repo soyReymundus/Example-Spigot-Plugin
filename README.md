@@ -1,3 +1,3 @@
 # Example Spigot Plugin
 
-xD
+Minecraft te amo bb
